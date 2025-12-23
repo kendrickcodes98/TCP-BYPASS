@@ -41,7 +41,7 @@ Kendricks-Fork is a powerful and versatile script that leverages the `scapy` lib
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kendricks-Handle/Kendricks-Fork.git
+   git clone https://github.com/kendrickcodes98/TCP-BYPASS
    cd Kendricks-Fork
    ```
 
