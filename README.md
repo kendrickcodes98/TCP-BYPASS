@@ -20,7 +20,7 @@
 
 ## 🎯 Features
 
-Kendricks-Fork is a powerful and versatile script that leverages the `scapy` library to perform low-level network operations. It is designed with both functionality and aesthetics in mind.
+TCP-BYPASS ENGINE is a powerful and versatile script that leverages the `scapy` library to perform low-level network operations. It is designed with both functionality and aesthetics in mind.
 
 - **SYN Flood Attack**: Overwhelms a target's ports with SYN packets to test firewall resilience and perform stress tests.
 - **ICMP Tunneling**: Create a covert communication channel by embedding data within ICMP packets.
@@ -42,7 +42,7 @@ Kendricks-Fork is a powerful and versatile script that leverages the `scapy` lib
 1. Clone the repository:
    ```bash
    git clone https://github.com/kendrickcodes98/TCP-BYPASS
-   cd Kendricks-Fork
+   cd TCP-BYPASS
    ```
 
 2. Install the required Python packages:
